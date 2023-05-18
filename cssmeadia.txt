@@ -1,0 +1,9 @@
+.shubham(
+blank
+)
+@meadia (screeen size)
+(
+	.shubham(
+			display:none;
+		)
+)
