@@ -5,5 +5,10 @@ blank
 (
 	.shubham(
 			display:none;
+                  left:0px
+		)
+      .sumit(
+			display:none;
+                  left:0px
 		)
 )
